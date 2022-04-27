@@ -1,6 +1,14 @@
 # Getting Started with Create React App
+Site Deploy Link - https://imaginative-tulumba-03c3e2.netlify.app/
 
-This project is Dynamic Html element
+
+This project is Dynamic Html element. 
+I have used Styled-components for styling. All the Styled Components are in src/Styles.
+To make editable HTMl elements I have used ContentEditable from "react-contenteditable". 
+I have made three types of HTML elements - Text(span), Heading 1(h1), Button(button) which are present in seperate components in src/Components
+I have called all components in a Card Component.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
